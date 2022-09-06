@@ -1,0 +1,8 @@
+{
+  "name": "ScooterMart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a75c88eb"
+}

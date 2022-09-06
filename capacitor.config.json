@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ScooterMart",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
